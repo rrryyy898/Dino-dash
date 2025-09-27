@@ -12,7 +12,7 @@ Run, jump, and chomp your way through multiple stages with escalating difficulty
 - **Jump**: Space (double-jump enabled)
 - **Shoot**: F (on ground or in air)
 - Avoid obstacles and enemies; collect hearts; defeat bosses.
-- Score = distance + kills (+300 boss).
+- Score = distance + kills.
 
 ## 🧠 Core Systems
 - **RunGame**: central speed + difficulty ramp
