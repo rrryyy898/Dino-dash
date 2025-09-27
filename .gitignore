@@ -1,0 +1,30 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+
+# IDE
+*.csproj
+*.sln
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+
+# Media & builds (keep out of repo)
+Video/
+*.mov
+*.mp4
+*.zip
+*.app/
+*.exe
+*.apk
+*.aab
+*.ipa
+*.dmg
