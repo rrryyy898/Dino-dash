@@ -33,7 +33,7 @@ Run, jump, and chomp your way through multiple stages with escalating difficulty
 - **Htoo Kyaw Kyaw Sint** (6530129)
 
 ## 📥 Download / Play
-- **itch.io**: <your itch.io link>
+- **itch.io**: https://htookyawkyawsint.itch.io/dinodash
 - **YouTube Demo**: https://youtu.be/LUHnk606VkU
 
 ## ⚖️ Licenses
