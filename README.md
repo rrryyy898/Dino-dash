@@ -34,7 +34,7 @@ Run, jump, and chomp your way through multiple stages with escalating difficulty
 
 ## 📥 Download / Play
 - **itch.io**: <your itch.io link>
-- **YouTube Demo**: <your YouTube link>
+- **YouTube Demo**: https://youtu.be/LUHnk606VkU
 
 ## ⚖️ Licenses
 - **Code**: MIT (see `LICENSE`)
