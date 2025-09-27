@@ -5,7 +5,8 @@ A juicy 2D endless runner built in **Unity 2022.3 LTS**.
 Run, jump, and chomp your way through multiple stages with escalating difficulty, anchored boss fights, obstacles, and pickups—wrapped in a polished meta loop (pause, game over, retry, best score).
 
 ## 🖼 Screenshots
-*(Add 3–5 PNGs from Title, Stage 1, Boss, Stage Banner, Game Over.)*
+<img width="1440" height="900" alt="Screenshot 2025-09-27 at 4 31 02 PM" src="https://github.com/user-attachments/assets/0b305194-7ac6-4a75-9f4d-5fa404ff25a1" />
+
 
 ## 🎮 How to Play
 - **Jump**: Space (double-jump enabled)
